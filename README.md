@@ -2,8 +2,6 @@
 
 This repository contains a Power BI dashboard analyzing global electric vehicle sales data from 2010 to 2024. The dashboard provides key insights into market trends, sales growth, regional performance, and powertrain adoption.
 
-![Dashboard Screenshot](DashBoard_Screenshot.png) 
-
 ## Features
 
 * **Sales Trends**: Visualize global EV sales growth with a line chart from 2010 to 2024.
@@ -28,4 +26,7 @@ The dashboard was created using electric vehicle sales data sourced from [Intern
 * Include forecasts for EV sales beyond 2024.
 * Add more granular data, such as manufacturer-wise or state-wise insights.
 * Automate data refresh with live connections.
+
+
+![Dashboard Screenshot](DashBoard_Screenshot.png) 
 
